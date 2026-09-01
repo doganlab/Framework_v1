@@ -44,3 +44,20 @@ The following archive and dataset were used:
 ```text
 Suzuki_Aragam_coloc.tar.gz
 └── UKBB_EUR_Suzuki_Aragam_coloc_results.tsv
+
+Analyses were restricted to the Aragam CAD GWAS: GCST90132314_buildGRCh37
+Strong colocalization was defined as: PP.H4 ≥ 0.99
+
+This yielded:
+
+297 colocalization records
+177 unique metabolic traits
+102 traits that could subsequently be mapped to the pharmacometabolomic resource
+
+The colocalization release also provides metabolite-specific links to the corresponding UK Biobank mGWAS summary statistics. These source links are additionally documented in the manuscript supplementary data.
+
+### 2. Metabolite GWAS and genetic instrument selection
+
+European-ancestry UK Biobank mGWAS summary statistics were obtained for the 102 mapped metabolic traits using the source links provided with the colocalization dataset.
+
+For each metabolic trait, genetic instruments were selected using:
