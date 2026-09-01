@@ -80,7 +80,7 @@ Framework_v1/
 │   ├── 06_parse_VEP_annotation.R
 │   ├── 07_variant_annotation_pipeline.R
 │   ├── 08_integrate_variant_gene_drug.R
-│   └── 10_smoke_test_natmed.R
+│   
 │
 ├── data/
 │   ├── raw/
